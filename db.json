@@ -1,5 +1,11 @@
 {
-  "user": [
-      
-  ]
+  "user":[
+        {
+           "name":"Taruna",
+            "avatar":"https://i.pravatar.cc/150?u=a042581f4e29026704d",
+           "username":"TarunaNangla",
+           "email":"Tarunanangala131@gmailcom",
+           "password":"12345"
+        }
+      ]
 }
